@@ -4,5 +4,4 @@ A simple object detection and regognition using tensorflow and COCO api
 IMPORTANT: you need open-cv and tensorflow to test the CUJO also make sure you have tensorflow with COCO API and ofcourse dont forget to change Line 26 and Line 29 in order to test it
 
 heres a demo of the code working:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dZP6Z13ARj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/dZP6Z13ARj4
